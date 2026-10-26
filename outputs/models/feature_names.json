@@ -1,0 +1,23 @@
+[
+  "Postal Code",
+  "Model Year",
+  "Base MSRP",
+  "Legislative District",
+  "Base_MSRP_Reported",
+  "Vehicle_Age",
+  "Is_Modern_EV",
+  "Is_Luxury_Make",
+  "Is_Tesla",
+  "Is_King_County",
+  "Has_MSRP",
+  "Make_Grouped_BMW",
+  "Make_Grouped_CHEVROLET",
+  "Make_Grouped_FORD",
+  "Make_Grouped_HYUNDAI",
+  "Make_Grouped_JEEP",
+  "Make_Grouped_KIA",
+  "Make_Grouped_NISSAN",
+  "Make_Grouped_OTHER",
+  "Make_Grouped_TESLA",
+  "Make_Grouped_VOLVO"
+]
